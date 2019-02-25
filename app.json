@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "components/Mytitle/Mytitle",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#3af0f0",
+    "navigationBarTitleText": "Hi · 小程序",
+    "navigationBarTextStyle": "white"
+  }
+}
